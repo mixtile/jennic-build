@@ -1,0 +1,41 @@
+Dies ist die Datei .../info/dir, die den obersten Knoten der
+Info-Hierarchie enthält, genannt (dir)Top.
+Beim ersten Aufruf von Info geht es bei diesem Knoten los.
+
+File: dir,	Node: Top	Dies ist der Beginn des INFO-Baums
+
+  Dieser Verzeichnis-Knoten zeigt ein Menü aller Hauptpunkte an.
+  „q“ beendet Info, „?“ listet alle Info-Befehle auf, „d“ kehrt hierher
+  zurück, „h“ gibt eine Einsteiger-Hilfe, „mEmacs<Return>“ besucht das
+  Emacs-Manual, etc.
+
+  Im Emacs kann man mit dem zweiten Mausknopf auf einen Menüeintrag oder
+  einen Querverweis klicken, um einen solchen auswählen.
+
+* Menu:
+
+Miscellaneous
+* As: (as).                     The GNU assembler.
+* Bfd: (bfd).                   The Binary File Descriptor library.
+* Binutils: (binutils).         The GNU binary utilities.
+* Gas: (as).                    The GNU assembler.
+* Ld: (ld).                     The GNU linker.
+* addr2line: (binutils)addr2line.
+                                Convert addresses to file and line
+* ar: (binutils)ar.             Create, modify, and extract from archives
+* c++filt: (binutils)c++filt.   Filter to demangle encoded C++ symbols
+* cxxfilt: (binutils)c++filt.   MS-DOS name for c++filt
+* dlltool: (binutils)dlltool.   Create files needed to build and use DLLs
+* nlmconv: (binutils)nlmconv.   Converts object code into an NLM
+* nm: (binutils)nm.             List symbols from object files
+* objcopy: (binutils)objcopy.   Copy and translate object files
+* objdump: (binutils)objdump.   Display information from object files
+* ranlib: (binutils)ranlib.     Generate index to archive contents
+* readelf: (binutils)readelf.   Display the contents of ELF format files.
+* size: (binutils)size.         List section sizes and total size
+* strings: (binutils)strings.   List printable strings from files
+* strip: (binutils)strip.       Discard symbols
+* windres: (binutils)windres.   Manipulate Windows resources
+
+Programming
+* gccinstall: (gccinstall).     Installing the GNU Compiler Collection.
